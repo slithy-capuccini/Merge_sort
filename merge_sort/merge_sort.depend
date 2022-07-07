@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1657014267 source:/home/slithy/Escritorio/c/merge_sort/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1657001350 source:/run/media/slithy/Elements SE/Games/1.LA CARPETA/Programacion/Algoritmos/MergeSort/merge_sort/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
